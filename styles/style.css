@@ -1,0 +1,23 @@
+.article{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: darkgray;
+    border: 3px, solin brown; 
+}
+.heading{
+    font-size: 30px;
+    font-weight: 600;
+    color: rgb(8, 20, 107);
+
+}
+.sub-heading{
+    font-size: 20px;
+    font-weight: 300px;
+    color:rgb(243, 232, 239)
+}
+.text{
+    font-size: 15px;
+    font-weight: 100px;
+    color:rgb(138, 11, 94);
+}
